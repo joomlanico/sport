@@ -3,3 +3,4 @@
   "InstanceType": "m4.2xlarge",
   "Placement": {
     "AvailabilityZone": "us-east-1"
+}
