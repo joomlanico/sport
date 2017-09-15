@@ -1,7 +1,0 @@
-{
-  "ImageId": "ami-e46d53f2",
-  "InstanceType": "m4.4xlarge",
-  "Placement": {
-    "AvailabilityZone": "us-east-1"
-  }, 
-}
